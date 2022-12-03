@@ -1,1 +1,2 @@
-# CSS
+# 
+.Ushbu  repozitorda  cssga  oid  kodlar  jamlangan
